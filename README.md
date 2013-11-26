@@ -31,14 +31,16 @@ http://warpspire.com/kss/
 - Node.js版の[KSS-node](https://github.com/hughsk/kss-node)がある
 - 見た目の変更ができる
 
-### Kalei
+### Kalei Styleguide
 http://kaleistyleguide.com/
 - JS製
 - bootstrapみたいな見た目のスタイルガイドが作れる
 - cloneしてきてサーバー立てればすぐ使える
 
 ## 目指したいこと
-- スタイルドキュメント(スタイルガイド&mixin/functionドキュメント)
+- Node.jsで書く(勉強する)
+- Styledocco + sassdoc(スタイルガイド&mixin/functionドキュメント)
+- コメントにMarkdownで書く
 - gruntで動かすことを想定
 - 見た目の変更が用意
 - 軽い
